@@ -10,3 +10,4 @@
 - 2010 Joined game company [Lunar Giant Studios]("http://lunargiant.com")
 - 2010 Started hackerspace [Workshop 88]("http://workshop88.com")
 - 2013 Began teaching games at DePaul University
+- 2013 Founded coworking/makerspace [SpaceLab 1]("http://spacelab1.com")
